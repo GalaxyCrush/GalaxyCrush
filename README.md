@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galaxycrush&label=Profile%20views&color=0e75b6&style=flat" alt="galaxycrush" /> </p>
-- Hi 👋, I'm GalaxyCrush
+- Hi 👋, I'm GalaxyCrush<p>
 - 🌱 I’m currently learning **Java and C#**
 
 <h3 align="left">Connect with me:</h3>
