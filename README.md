@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm João and I'm currently in my third year of computer engineering at the Faculty of Science at the University of Lisbon. <br>Currently, I'm working more with C and Java.<br>I intend to learn C# in more depth in the near future.<br>I love games and anime.<br>
+Hello, I'm João and I'm currently in my third year of software engineering at the Faculty of Science at the University of Lisbon. <br>Currently, I'm working more with C and Java.<br>I intend to learn C# in more depth in the near future.<br>I love games and anime.<br>
 
 
 ## 🌐 Socials:
