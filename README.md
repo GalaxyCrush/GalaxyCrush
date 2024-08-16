@@ -12,5 +12,3 @@ Hello, I'm João and I'm currently in my third year of software engineering at t
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GalaxyCrush&icon=4&color=12)](https://visitcount.itsvg.in)
-
-UwU
