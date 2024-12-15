@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm João and I'm currently a MSc Student in Computer Science and Engineering at Instituto Superior Técnico. <br>Currently, I'm working more with C and Java.<br>I intend to learn C# in more depth soon.<br>I love games and anime.<br>
+Hello, I'm João, an MSc Computer Science and Engineering student at Instituto Superior Técnico. <br>Currently, I'm working more with C++ and Java.<br>I intend to learn C# in more depth soon.<br>I love games and anime.<br>
 
 
 ## 🌐 Socials:
